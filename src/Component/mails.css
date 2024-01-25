@@ -1,0 +1,25 @@
+.container-border {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Ajusta esto según tus necesidades */
+    background-color: rgba(60, 60, 59, 0.233);
+    color: white;
+}
+.form-control .btn .btn-primary{
+    margin-top: 5px;
+}
+body {
+    background-image: url(unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box {
+    width: 100%;
+}
+
+.box label {
+    width: 100%;
+}
